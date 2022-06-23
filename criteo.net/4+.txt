@@ -1,0 +1,4 @@
+Discovered open port 53/tcp on 178.250.3.254                                   
+Discovered open port 53/tcp on 178.250.3.255                                   
+Discovered open port 80/tcp on 178.250.3.65                                    
+Discovered open port 443/tcp on 178.250.3.65                                   

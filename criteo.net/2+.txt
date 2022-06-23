@@ -1,0 +1,9 @@
+Discovered open port 443/tcp on 178.250.1.195                                  
+Discovered open port 443/tcp on 178.250.1.193                                  
+Discovered open port 443/tcp on 178.250.1.192                                  
+Discovered open port 443/tcp on 178.250.1.194                                  
+Discovered open port 53/tcp on 178.250.1.255                                   
+Discovered open port 53/tcp on 178.250.1.254                                   
+Discovered open port 22/tcp on 178.250.1.19                                    
+Discovered open port 80/tcp on 178.250.1.130                                   
+Discovered open port 443/tcp on 178.250.1.130                                  

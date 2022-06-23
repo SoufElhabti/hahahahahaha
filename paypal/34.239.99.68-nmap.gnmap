@@ -1,0 +1,4 @@
+# Nmap 7.60 scan initiated Sun Oct 25 15:50:26 2020 as: nmap -sC -sV -oA 34.239.99.68-nmap 34.239.99.68
+Host: 34.239.99.68 (ec2-34-239-99-68.compute-1.amazonaws.com)	Status: Up
+Host: 34.239.99.68 (ec2-34-239-99-68.compute-1.amazonaws.com)	Ports: 80/open/tcp//http//Microsoft IIS httpd 6.0/, 3389/open/tcp//ms-wbt-server//Microsoft Terminal Service/	Ignored State: filtered (998)
+# Nmap done at Sun Oct 25 15:51:42 2020 -- 1 IP address (1 host up) scanned in 76.43 seconds

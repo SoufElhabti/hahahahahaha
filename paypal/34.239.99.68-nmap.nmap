@@ -1,0 +1,15 @@
+# Nmap 7.60 scan initiated Sun Oct 25 15:50:26 2020 as: nmap -sC -sV -oA 34.239.99.68-nmap 34.239.99.68
+Nmap scan report for ec2-34-239-99-68.compute-1.amazonaws.com (34.239.99.68)
+Host is up (0.00080s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE       VERSION
+80/tcp   open  http          Microsoft IIS httpd 6.0
+| http-methods: 
+|_  Potentially risky methods: TRACE
+|_http-server-header: Microsoft-IIS/6.0
+|_http-title: PayPal - Log In
+3389/tcp open  ms-wbt-server Microsoft Terminal Service
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Oct 25 15:51:42 2020 -- 1 IP address (1 host up) scanned in 76.43 seconds
